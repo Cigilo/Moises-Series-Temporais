@@ -1,0 +1,12 @@
+﻿variavel,descricao,fonte,unidade,frequencia,uso
+geocode,Código municipal IBGE,InfoDengue/IBGE,código,município,Efeito fixo/categórico de capital
+date,Domingo de início da semana epidemiológica,InfoDengue,data,semanal,Índice temporal
+casprov,Casos prováveis (suspeitos menos descartados),InfoDengue/SINAN/IBGE,casos,semanal,Alvo de regressão
+surto_mem,1 se nível_inc MEM = 2 (incidência acima do limiar epidêmico),InfoDengue/MEM,0/1,semanal,Alvo de classificação
+population,"População anual mais recente conhecida, carregada para frente",DATASUS/SVS,habitantes,anual,Exposição NB e cálculo da incidência
+temp_med,Temperatura média diária agregada por semana,NASA POWER T2M,°C,semanal,Explicativa climática
+precip_tot_mm,Soma semanal de precipitação corrigida diária,NASA POWER PRECTOTCORR,mm/semana,semanal,Explicativa climática
+rel_humid_med,Umidade relativa média diária agregada por semana,NASA POWER RH2M,%,semanal,Explicativa climática
+casos_lag_k,Casos prováveis k semanas antes,Calculada por capital após ordenar por data,casos,"semanal, k=1..8 e 52",Explicativas conhecidas na origem
+clima_lag_k,Clima observado k semanas antes,Calculada por capital após ordenar por data,unidade da variável climática,"semanal, k=2..8",Só entram lags disponíveis no horizonte
+semana_sin/cos,Codificação cíclica da semana epidemiológica,Calculada,adimensional,semanal,Sazonalidade de calendário

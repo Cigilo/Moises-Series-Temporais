@@ -1,0 +1,135 @@
+﻿arquivo,variavel,descricao,fonte,unidade,frequencia,periodo_coberto
+painel_capitais_eda.parquet,geocode,Código IBGE do município,InfoDengue/IBGE,código,município,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,date,Início da semana epidemiológica,InfoDengue,data,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,casos,Casos prováveis: suspeitos menos descartados,SINAN/InfoDengue,casos,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,epiweek,Ano e semana epidemiológica,InfoDengue,YYYYWW,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,uf,Estado,InfoDengue,sigla,município,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,macroregional_geocode,Identificador ou atributo geográfico/administrativo,InfoDengue/IBGE,código ou texto,município,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,regional_geocode,Identificador ou atributo geográfico/administrativo,InfoDengue/IBGE,código ou texto,município,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,uf_code,Identificador ou atributo geográfico/administrativo,InfoDengue/IBGE,código ou texto,município,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,target_city,Indicador de participação em janela de treino ou teste de previsão,Calculada,0/1,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,train_1,Indicador de participação em janela de treino ou teste de previsão,Calculada,0/1,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,target_1,Indicador de participação em janela de treino ou teste de previsão,Calculada,0/1,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,train_2,Indicador de participação em janela de treino ou teste de previsão,Calculada,0/1,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,target_2,Indicador de participação em janela de treino ou teste de previsão,Calculada,0/1,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,train_3,Indicador de participação em janela de treino ou teste de previsão,Calculada,0/1,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,target_3,Indicador de participação em janela de treino ou teste de previsão,Calculada,0/1,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,train_4,Indicador de participação em janela de treino ou teste de previsão,Calculada,0/1,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,target_4,Indicador de participação em janela de treino ou teste de previsão,Calculada,0/1,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,disease,Identificador ou atributo geográfico/administrativo,InfoDengue/IBGE,código ou texto,município,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,ano,Ano da semana ou ano de referência da população,InfoDengue/DATASUS,ano,anual,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,ano_pop,Ano da semana ou ano de referência da população,InfoDengue/DATASUS,ano,anual,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,population,Última população municipal disponível até o ano da semana,DATASUS/IBGE,habitantes,anual; carregada para frente sem usar anos futuros,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,incidencia_100mil,Casos por 100 mil habitantes,calculada,casos/100 mil,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,casos_arquivo,"Casos prováveis no arquivo histórico bulk, mantidos para auditoria da versão",InfoDengue/Mosqlimate,casos,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,p_inc100k,Incidência por 100 mil habitantes,Calculada/InfoDengue,casos por 100 mil,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,casprov,Casos prováveis/notificados conforme a definição da fonte,InfoDengue/SINAN,casos,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,nivel_inc_mem,Faixa oficial de incidência MEM; 2 indica acima do limiar epidêmico,InfoDengue,nível 0/1/2,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,nivel,Faixa/nível oficial do alerta epidemiológico,InfoDengue/MEM,categoria,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,surto_mem,Indicador oficial de incidência acima do limiar MEM,InfoDengue,0/1,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,municipio_nome,Nome oficial do município,InfoDengue/IBGE,texto,município,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,temp_min,Temperatura semanal,ERA5/Mosqlimate,°C,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,temp_med,Temperatura média semanal,ERA5/Mosqlimate,°C,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,temp_max,Temperatura semanal,ERA5/Mosqlimate,°C,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,precip_min,Estatística semanal de precipitação,ERA5/Mosqlimate,mm ou mm/h,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,precip_med,Taxa média semanal de precipitação,ERA5/Mosqlimate,mm/h,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,precip_max,Estatística semanal de precipitação,ERA5/Mosqlimate,mm ou mm/h,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,rel_humid_min,Umidade relativa semanal,ERA5/Mosqlimate,%,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,rel_humid_med,Umidade relativa média semanal,ERA5/Mosqlimate,%,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,rel_humid_max,Umidade relativa semanal,ERA5/Mosqlimate,%,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,rainy_days,Dias chuvosos ou dias climáticos observados na semana,NASA POWER/Calculada,dias,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,semana_ano,Ano ou número da semana epidemiológica,InfoDengue,ano/semana,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,semana_sin,Representação cíclica da semana do ano,Calculada,adimensional,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,semana_cos,Representação cíclica da semana do ano,Calculada,adimensional,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,casos_lag_1,Casos prováveis observados 1 semanas antes,Calculada a partir do InfoDengue,casos,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,temp_med_lag_1,Temperatura média observada 1 semanas antes,ERA5/Mosqlimate,°C,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,precip_med_lag_1,Taxa média de precipitação observada 1 semanas antes,ERA5/Mosqlimate,mm/h,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,umidade_med_lag_1,Umidade relativa média observada 1 semanas antes,ERA5/Mosqlimate,%,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,casos_lag_2,Casos prováveis observados 2 semanas antes,Calculada a partir do InfoDengue,casos,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,temp_med_lag_2,Temperatura média observada 2 semanas antes,ERA5/Mosqlimate,°C,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,precip_med_lag_2,Taxa média de precipitação observada 2 semanas antes,ERA5/Mosqlimate,mm/h,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,umidade_med_lag_2,Umidade relativa média observada 2 semanas antes,ERA5/Mosqlimate,%,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,casos_lag_3,Casos prováveis observados 3 semanas antes,Calculada a partir do InfoDengue,casos,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,temp_med_lag_3,Temperatura média observada 3 semanas antes,ERA5/Mosqlimate,°C,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,precip_med_lag_3,Taxa média de precipitação observada 3 semanas antes,ERA5/Mosqlimate,mm/h,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,umidade_med_lag_3,Umidade relativa média observada 3 semanas antes,ERA5/Mosqlimate,%,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,casos_lag_4,Casos prováveis observados 4 semanas antes,Calculada a partir do InfoDengue,casos,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,temp_med_lag_4,Temperatura média observada 4 semanas antes,ERA5/Mosqlimate,°C,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,precip_med_lag_4,Taxa média de precipitação observada 4 semanas antes,ERA5/Mosqlimate,mm/h,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,umidade_med_lag_4,Umidade relativa média observada 4 semanas antes,ERA5/Mosqlimate,%,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,casos_lag_5,Casos prováveis observados 5 semanas antes,Calculada a partir do InfoDengue,casos,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,temp_med_lag_5,Temperatura média observada 5 semanas antes,ERA5/Mosqlimate,°C,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,precip_med_lag_5,Taxa média de precipitação observada 5 semanas antes,ERA5/Mosqlimate,mm/h,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,umidade_med_lag_5,Umidade relativa média observada 5 semanas antes,ERA5/Mosqlimate,%,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,casos_lag_6,Casos prováveis observados 6 semanas antes,Calculada a partir do InfoDengue,casos,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,temp_med_lag_6,Temperatura média observada 6 semanas antes,ERA5/Mosqlimate,°C,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,precip_med_lag_6,Taxa média de precipitação observada 6 semanas antes,ERA5/Mosqlimate,mm/h,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,umidade_med_lag_6,Umidade relativa média observada 6 semanas antes,ERA5/Mosqlimate,%,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,casos_lag_7,Casos prováveis observados 7 semanas antes,Calculada a partir do InfoDengue,casos,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,temp_med_lag_7,Temperatura média observada 7 semanas antes,ERA5/Mosqlimate,°C,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,precip_med_lag_7,Taxa média de precipitação observada 7 semanas antes,ERA5/Mosqlimate,mm/h,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,umidade_med_lag_7,Umidade relativa média observada 7 semanas antes,ERA5/Mosqlimate,%,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,casos_lag_8,Casos prováveis observados 8 semanas antes,Calculada a partir do InfoDengue,casos,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,temp_med_lag_8,Temperatura média observada 8 semanas antes,ERA5/Mosqlimate,°C,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,precip_med_lag_8,Taxa média de precipitação observada 8 semanas antes,ERA5/Mosqlimate,mm/h,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,umidade_med_lag_8,Umidade relativa média observada 8 semanas antes,ERA5/Mosqlimate,%,semanal,2015-01-04 a 2026-03-08
+painel_capitais_eda.parquet,casos_lag_52,Casos na mesma semana do ano anterior,calculada,casos,semanal; 52 semanas,2015-01-04 a 2026-03-08
+painel_capitais_modelagem.parquet,geocode,Código municipal IBGE,InfoDengue/IBGE,código,município,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,municipio,Identificador ou atributo geográfico/administrativo,InfoDengue/IBGE,código ou texto,município,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,uf,Identificador ou atributo geográfico/administrativo,InfoDengue/IBGE,código ou texto,município,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,date,Domingo de início da semana epidemiológica,InfoDengue,data,semanal,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,epiweek,Ano e semana epidemiológica,InfoDengue,YYYYWW,semanal,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,casprov,Casos prováveis (suspeitos menos descartados),InfoDengue/SINAN/IBGE,casos,semanal,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,casos_notificados,Casos prováveis/notificados conforme a definição da fonte,InfoDengue/SINAN,casos,semanal,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,incidencia_api_100mil,Incidência por 100 mil habitantes,Calculada/InfoDengue,casos por 100 mil,semanal,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,nivel_inc_mem,Faixa/nível oficial do alerta epidemiológico,InfoDengue/MEM,categoria,semanal,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,alerta_nivel,Faixa/nível oficial do alerta epidemiológico,InfoDengue/MEM,categoria,semanal,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,versao_modelo_alerta,Identificador ou atributo geográfico/administrativo,InfoDengue/IBGE,código ou texto,município,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,temp_med,Temperatura média diária agregada por semana,NASA POWER T2M,°C,semanal,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,precip_tot_mm,Soma semanal de precipitação corrigida diária,NASA POWER PRECTOTCORR,mm/semana,semanal,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,rel_humid_med,Umidade relativa média diária agregada por semana,NASA POWER RH2M,%,semanal,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,rainy_days,Dias chuvosos ou dias climáticos observados na semana,NASA POWER/Calculada,dias,semanal,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,climate_days_observed,Dias chuvosos ou dias climáticos observados na semana,NASA POWER/Calculada,dias,semanal,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,population,"População anual mais recente conhecida, carregada para frente",DATASUS/SVS,habitantes,anual,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,surto_mem,1 se nível_inc MEM = 2 (incidência acima do limiar epidêmico),InfoDengue/MEM,0/1,semanal,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,incidencia_100mil,Incidência por 100 mil habitantes,Calculada/InfoDengue,casos por 100 mil,semanal,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,epiweek_year,Ano ou número da semana epidemiológica,InfoDengue,ano/semana,semanal,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,epiweek_number,Ano ou número da semana epidemiológica,InfoDengue,ano/semana,semanal,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,semana_sin,Representação cíclica da semana do ano,Calculada,adimensional,semanal,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,semana_cos,Representação cíclica da semana do ano,Calculada,adimensional,semanal,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,casos_lag_1,Casos prováveis observados 1 semanas antes,Calculada a partir do InfoDengue,casos,semanal,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,casos_lag_2,Casos prováveis observados 2 semanas antes,Calculada a partir do InfoDengue,casos,semanal,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,casos_lag_3,Casos prováveis observados 3 semanas antes,Calculada a partir do InfoDengue,casos,semanal,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,casos_lag_4,Casos prováveis observados 4 semanas antes,Calculada a partir do InfoDengue,casos,semanal,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,casos_lag_5,Casos prováveis observados 5 semanas antes,Calculada a partir do InfoDengue,casos,semanal,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,casos_lag_6,Casos prováveis observados 6 semanas antes,Calculada a partir do InfoDengue,casos,semanal,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,casos_lag_7,Casos prováveis observados 7 semanas antes,Calculada a partir do InfoDengue,casos,semanal,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,casos_lag_8,Casos prováveis observados 8 semanas antes,Calculada a partir do InfoDengue,casos,semanal,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,casos_lag_52,Casos prováveis observados 52 semanas antes,Calculada a partir do InfoDengue,casos,semanal,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,temp_med_lag_1,Temperatura média observada 1 semanas antes,NASA POWER,°C,semanal,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,temp_med_lag_2,Temperatura média observada 2 semanas antes,NASA POWER,°C,semanal,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,temp_med_lag_3,Temperatura média observada 3 semanas antes,NASA POWER,°C,semanal,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,temp_med_lag_4,Temperatura média observada 4 semanas antes,NASA POWER,°C,semanal,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,temp_med_lag_5,Temperatura média observada 5 semanas antes,NASA POWER,°C,semanal,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,temp_med_lag_6,Temperatura média observada 6 semanas antes,NASA POWER,°C,semanal,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,temp_med_lag_7,Temperatura média observada 7 semanas antes,NASA POWER,°C,semanal,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,temp_med_lag_8,Temperatura média observada 8 semanas antes,NASA POWER,°C,semanal,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,temp_med_lag_52,Temperatura média observada 52 semanas antes,NASA POWER,°C,semanal,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,precip_tot_mm_lag_1,Precipitação acumulada observada 1 semanas antes,NASA POWER,mm/semana,semanal,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,precip_tot_mm_lag_2,Precipitação acumulada observada 2 semanas antes,NASA POWER,mm/semana,semanal,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,precip_tot_mm_lag_3,Precipitação acumulada observada 3 semanas antes,NASA POWER,mm/semana,semanal,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,precip_tot_mm_lag_4,Precipitação acumulada observada 4 semanas antes,NASA POWER,mm/semana,semanal,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,precip_tot_mm_lag_5,Precipitação acumulada observada 5 semanas antes,NASA POWER,mm/semana,semanal,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,precip_tot_mm_lag_6,Precipitação acumulada observada 6 semanas antes,NASA POWER,mm/semana,semanal,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,precip_tot_mm_lag_7,Precipitação acumulada observada 7 semanas antes,NASA POWER,mm/semana,semanal,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,precip_tot_mm_lag_8,Precipitação acumulada observada 8 semanas antes,NASA POWER,mm/semana,semanal,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,precip_tot_mm_lag_52,Precipitação acumulada observada 52 semanas antes,NASA POWER,mm/semana,semanal,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,rel_humid_med_lag_1,Umidade relativa média observada 1 semanas antes,NASA POWER,%,semanal,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,rel_humid_med_lag_2,Umidade relativa média observada 2 semanas antes,NASA POWER,%,semanal,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,rel_humid_med_lag_3,Umidade relativa média observada 3 semanas antes,NASA POWER,%,semanal,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,rel_humid_med_lag_4,Umidade relativa média observada 4 semanas antes,NASA POWER,%,semanal,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,rel_humid_med_lag_5,Umidade relativa média observada 5 semanas antes,NASA POWER,%,semanal,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,rel_humid_med_lag_6,Umidade relativa média observada 6 semanas antes,NASA POWER,%,semanal,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,rel_humid_med_lag_7,Umidade relativa média observada 7 semanas antes,NASA POWER,%,semanal,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,rel_humid_med_lag_8,Umidade relativa média observada 8 semanas antes,NASA POWER,%,semanal,2015-01-04 a 2026-10-25
+painel_capitais_modelagem.parquet,rel_humid_med_lag_52,Umidade relativa média observada 52 semanas antes,NASA POWER,%,semanal,2015-01-04 a 2026-10-25

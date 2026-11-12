@@ -1,0 +1,64 @@
+﻿variavel,municipio,n,faltantes,pct_faltantes,zeros_observados,decisao_modelagem
+casprov,São Luís,584,0,0.0,13.0,não imputar; tratar zero como observação
+casprov,Teresina,584,0,0.0,4.0,não imputar; tratar zero como observação
+casprov,Fortaleza,584,0,0.0,0.0,não imputar; tratar zero como observação
+casprov,Natal,584,0,0.0,0.0,não imputar; tratar zero como observação
+casprov,João Pessoa,584,0,0.0,0.0,não imputar; tratar zero como observação
+casprov,Recife,584,0,0.0,0.0,não imputar; tratar zero como observação
+casprov,Maceió,584,0,0.0,1.0,não imputar; tratar zero como observação
+casprov,Aracaju,584,0,0.0,15.0,não imputar; tratar zero como observação
+casprov,Salvador,584,0,0.0,1.0,não imputar; tratar zero como observação
+incidencia_100mil,São Luís,584,0,0.0,13.0,não imputar; tratar zero como observação
+incidencia_100mil,Teresina,584,0,0.0,4.0,não imputar; tratar zero como observação
+incidencia_100mil,Fortaleza,584,0,0.0,0.0,não imputar; tratar zero como observação
+incidencia_100mil,Natal,584,0,0.0,0.0,não imputar; tratar zero como observação
+incidencia_100mil,João Pessoa,584,0,0.0,0.0,não imputar; tratar zero como observação
+incidencia_100mil,Recife,584,0,0.0,0.0,não imputar; tratar zero como observação
+incidencia_100mil,Maceió,584,0,0.0,1.0,não imputar; tratar zero como observação
+incidencia_100mil,Aracaju,584,0,0.0,15.0,não imputar; tratar zero como observação
+incidencia_100mil,Salvador,584,0,0.0,1.0,não imputar; tratar zero como observação
+population,São Luís,584,0,0.0,,não imputar; tratar zero como observação
+population,Teresina,584,0,0.0,,não imputar; tratar zero como observação
+population,Fortaleza,584,0,0.0,,não imputar; tratar zero como observação
+population,Natal,584,0,0.0,,não imputar; tratar zero como observação
+population,João Pessoa,584,0,0.0,,não imputar; tratar zero como observação
+population,Recife,584,0,0.0,,não imputar; tratar zero como observação
+population,Maceió,584,0,0.0,,não imputar; tratar zero como observação
+population,Aracaju,584,0,0.0,,não imputar; tratar zero como observação
+population,Salvador,584,0,0.0,,não imputar; tratar zero como observação
+temp_med,São Luís,584,0,0.0,,não imputar; tratar zero como observação
+temp_med,Teresina,584,0,0.0,,não imputar; tratar zero como observação
+temp_med,Fortaleza,584,0,0.0,,não imputar; tratar zero como observação
+temp_med,Natal,584,0,0.0,,não imputar; tratar zero como observação
+temp_med,João Pessoa,584,0,0.0,,não imputar; tratar zero como observação
+temp_med,Recife,584,0,0.0,,não imputar; tratar zero como observação
+temp_med,Maceió,584,0,0.0,,não imputar; tratar zero como observação
+temp_med,Aracaju,584,0,0.0,,não imputar; tratar zero como observação
+temp_med,Salvador,584,0,0.0,,não imputar; tratar zero como observação
+precip_med,São Luís,584,0,0.0,,não imputar; tratar zero como observação
+precip_med,Teresina,584,0,0.0,,não imputar; tratar zero como observação
+precip_med,Fortaleza,584,0,0.0,,não imputar; tratar zero como observação
+precip_med,Natal,584,0,0.0,,não imputar; tratar zero como observação
+precip_med,João Pessoa,584,0,0.0,,não imputar; tratar zero como observação
+precip_med,Recife,584,0,0.0,,não imputar; tratar zero como observação
+precip_med,Maceió,584,0,0.0,,não imputar; tratar zero como observação
+precip_med,Aracaju,584,0,0.0,,não imputar; tratar zero como observação
+precip_med,Salvador,584,0,0.0,,não imputar; tratar zero como observação
+rel_humid_med,São Luís,584,0,0.0,,não imputar; tratar zero como observação
+rel_humid_med,Teresina,584,0,0.0,,não imputar; tratar zero como observação
+rel_humid_med,Fortaleza,584,0,0.0,,não imputar; tratar zero como observação
+rel_humid_med,Natal,584,0,0.0,,não imputar; tratar zero como observação
+rel_humid_med,João Pessoa,584,0,0.0,,não imputar; tratar zero como observação
+rel_humid_med,Recife,584,0,0.0,,não imputar; tratar zero como observação
+rel_humid_med,Maceió,584,0,0.0,,não imputar; tratar zero como observação
+rel_humid_med,Aracaju,584,0,0.0,,não imputar; tratar zero como observação
+rel_humid_med,Salvador,584,0,0.0,,não imputar; tratar zero como observação
+rainy_days,São Luís,584,0,0.0,0.0,não imputar; tratar zero como observação
+rainy_days,Teresina,584,0,0.0,39.0,não imputar; tratar zero como observação
+rainy_days,Fortaleza,584,0,0.0,0.0,não imputar; tratar zero como observação
+rainy_days,Natal,584,0,0.0,0.0,não imputar; tratar zero como observação
+rainy_days,João Pessoa,584,0,0.0,0.0,não imputar; tratar zero como observação
+rainy_days,Recife,584,0,0.0,0.0,não imputar; tratar zero como observação
+rainy_days,Maceió,584,0,0.0,0.0,não imputar; tratar zero como observação
+rainy_days,Aracaju,584,0,0.0,0.0,não imputar; tratar zero como observação
+rainy_days,Salvador,584,0,0.0,0.0,não imputar; tratar zero como observação

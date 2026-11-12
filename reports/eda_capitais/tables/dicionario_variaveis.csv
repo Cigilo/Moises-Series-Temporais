@@ -1,0 +1,13 @@
+﻿variavel,descricao,fonte,unidade,frequencia,uso_observacoes
+geocode,Código municipal IBGE,IBGE/InfoDengue,código municipal,município,Identificador da capital
+date,Início da semana epidemiológica (domingo),InfoDengue/Mosqlimate,data,semanal,Chave temporal
+casprov,Casos prováveis semanais; suspeitos menos descartados,InfoDengue (SINAN/IBGE),casos,semanal,Alvo principal
+casos_arquivo,Casos prováveis da série histórica pública para auditoria,"InfoDengue/Mosqlimate, dengue.csv.gz",casos,semanal,"Comparação de versões, não substitui silenciosamente o alvo"
+incidencia_100mil,Casos por 100 mil habitantes,Calculada: casos/população × 100.000,casos/100 mil hab.,semanal,Medida auxiliar para pergunta de limiar
+nivel_inc_mem,Nível MEM de incidência; 2 acima do limiar epidêmico,InfoDengue/MEM,nível categórico,semanal,Indicador de contexto/evento
+surto_mem,Indicador de incidência acima do limiar MEM,InfoDengue/MEM,0/1,semanal,1 quando nível MEM é 2
+population,"População municipal estimada, último ano conhecido até a semana","DATASUS/SVS, pacote público 3rd IMDC",habitantes,"anual, carregada para frente",Não usa população futura
+temp_med,Temperatura média semanal,"ERA5/Copernicus, organizada por Mosqlimate",°C,semanal,Média de dados horários resumidos por semana
+precip_med,Taxa média semanal de precipitação,"ERA5/Copernicus, organizada por Mosqlimate",mm/h,semanal,Não é precipitação total semanal
+rel_humid_med,Umidade relativa média semanal,"ERA5/Copernicus, organizada por Mosqlimate",%,semanal,Média semanal
+rainy_days,"Dias da semana em que precipitação total excedeu 0,03","ERA5/Copernicus, organizada por Mosqlimate",dias/semana,semanal,Contagem de dias chuvosos

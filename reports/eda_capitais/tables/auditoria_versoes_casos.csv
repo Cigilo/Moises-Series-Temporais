@@ -1,0 +1,10 @@
+﻿geocode_ibge,municipio,n_comparavel,linhas_diferentes,pct_linhas_diferentes,diferenca_absoluta_maxima,soma_casprov_api,soma_arquivo_historico,decisao
+2111300,São Luís,584,15,2.5684931506849313,70,21018,21003,manter casprov como alvo; registrar que versões públicas são revisadas e auditar novamente ao atualizar a base
+2211001,Teresina,584,20,3.4246575342465753,159,55686,55328,manter casprov como alvo; registrar que versões públicas são revisadas e auditar novamente ao atualizar a base
+2304400,Fortaleza,584,18,3.0821917808219177,35,136029,136250,manter casprov como alvo; registrar que versões públicas são revisadas e auditar novamente ao atualizar a base
+2408102,Natal,584,12,2.054794520547945,37,100794,100780,manter casprov como alvo; registrar que versões públicas são revisadas e auditar novamente ao atualizar a base
+2507507,João Pessoa,584,13,2.2260273972602738,45,70335,70347,manter casprov como alvo; registrar que versões públicas são revisadas e auditar novamente ao atualizar a base
+2611606,Recife,584,34,5.821917808219178,73,95479,95921,manter casprov como alvo; registrar que versões públicas são revisadas e auditar novamente ao atualizar a base
+2704302,Maceió,584,26,4.4520547945205475,27,49483,49281,manter casprov como alvo; registrar que versões públicas são revisadas e auditar novamente ao atualizar a base
+2800308,Aracaju,584,9,1.5410958904109588,18,15438,15492,manter casprov como alvo; registrar que versões públicas são revisadas e auditar novamente ao atualizar a base
+2927408,Salvador,584,36,6.164383561643835,44,65151,65168,manter casprov como alvo; registrar que versões públicas são revisadas e auditar novamente ao atualizar a base

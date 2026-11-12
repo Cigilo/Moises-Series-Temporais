@@ -1,0 +1,5 @@
+﻿horizonte_semanas,modelo_A,modelo_B,diferenca_perda_quadratica_A_menos_B,estatistica_DM_HAC,p_valor_bilateral,origens_temporais,lag_HAC,interpretacao
+1,Binomial Negativa global,SARIMAX sazonal,-293.01478442282195,-1.6009361542908787,0.12303823541154972,24,3,"p<0,05 indica diferença de perda pareada; não significativo não prova empate"
+2,Binomial Negativa global,SARIMAX sazonal,-680.7047537857248,-1.367092576235591,0.18481029493238588,24,3,"p<0,05 indica diferença de perda pareada; não significativo não prova empate"
+3,Binomial Negativa global,SARIMAX sazonal,-580.9777837813791,-1.1121498424448684,0.2775637650573499,24,3,"p<0,05 indica diferença de perda pareada; não significativo não prova empate"
+4,Binomial Negativa global,SARIMAX sazonal,-517.3957426758308,-0.7013949794808874,0.4900931982750699,24,3,"p<0,05 indica diferença de perda pareada; não significativo não prova empate"

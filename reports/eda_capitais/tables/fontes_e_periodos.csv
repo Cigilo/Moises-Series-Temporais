@@ -1,0 +1,6 @@
+﻿conjunto,origem,frequencia,periodo,documentacao_acesso,observacoes
+casos e atributos epidemiológicos,"SINAN/IBGE, organizado por InfoDengue/Mosqlimate",semanal por município,2010–2026 (base do pacote); esta análise 2015-01-04 a 2026-03-08,https://sprint.mosqlimate.org/data/,Pacote público 3rd IMDC 2026; `casprov` usado como alvo e comparado com o arquivo histórico
+casos prováveis e níveis MEM,InfoDengue,semanal por município,2015–2026 na extração local,https://info.dengue.mat.br/services/api,Consulta pública por código IBGE; `nivel_inc == 2` identifica incidência acima do limiar epidêmico MEM
+variáveis climáticas,"ERA5/Copernicus, organizado por Mosqlimate",semanal por município,1999–2026 (pacote); recorte da análise 2015-01-04 a 2026-03-08,https://sprint.mosqlimate.org/data/,Reanálise horária agregada por dia e depois por semana; precipitação média em mm/h
+população,DATASUS/SVS,anual por município,2001–2025; último ano conhecido carregado para frente,https://sprint.mosqlimate.org/data/,Usada para calcular incidência sem recorrer a população futura
+API datastore,Mosqlimate,consulta paginada,acesso verificado em 2026-11-09,https://api.mosqlimate.org/docs/uid-key,"Exige chave de usuário; não foi necessária para executar esta EDA, que usa arquivos públicos arquivados"

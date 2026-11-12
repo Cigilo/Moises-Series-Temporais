@@ -1,0 +1,15 @@
+{
+  "gerado_em": "2026-11-09T14:06:45.240182-03:00",
+  "data_corte_consulta": "2026-11-09",
+  "fonte_casos": "InfoDengue alertcity API; casprov e nivel_inc MEM por município e semana epidemiológica",
+  "fonte_clima": "NASA POWER Daily Point API; T2M, PRECTOTCORR e RH2M; semana iniciada no domingo",
+  "fonte_populacao": "DATASUS/SVS, população anual arquivada no painel público; último valor conhecido carregado para frente",
+  "municipios": 9,
+  "linhas": 5553,
+  "data_inicial": "2015-01-04",
+  "data_final": "2026-10-25",
+  "casos_faltantes": 0,
+  "clima_semanal_incompleto": 0,
+  "zero_casos": 37,
+  "arquivo": "data\\processed\\painel_capitais_modelagem.parquet"
+}

@@ -1,0 +1,217 @@
+﻿geocode,municipio,status,aic,convergiu,especificacao,avisos,origin
+2111300,São Luís,ok,708.9210670897753,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-01-21
+2211001,Teresina,ok,564.4387281277122,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-01-21
+2304400,Fortaleza,ok,190.89272231197214,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-01-21
+2408102,Natal,ok,339.40143946294995,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-01-21
+2507507,João Pessoa,ok,202.60650960629744,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-01-21
+2611606,Recife,ok,209.54251430418316,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-01-21
+2704302,Maceió,ok,564.4973345723146,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-01-21
+2800308,Aracaju,ok,668.6447294360635,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-01-21
+2927408,Salvador,ok,277.06201980400294,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-01-21
+2111300,São Luís,ok,719.4429957019416,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-03-03
+2211001,Teresina,ok,568.8382795979711,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-03-03
+2304400,Fortaleza,ok,194.29297029884512,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-03-03
+2408102,Natal,ok,344.834899463997,False,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",Maximum Likelihood optimization failed to converge. Check mle_retvals,2024-03-03
+2507507,João Pessoa,ok,210.0557573598481,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-03-03
+2611606,Recife,ok,220.1833357508867,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-03-03
+2704302,Maceió,ok,573.6081854631559,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-03-03
+2800308,Aracaju,ok,675.8500406482113,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-03-03
+2927408,Salvador,ok,290.81666964765566,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-03-03
+2111300,São Luís,ok,723.1202964379258,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-04-14
+2211001,Teresina,ok,570.3750902999379,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-04-14
+2304400,Fortaleza,ok,193.9605246602015,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-04-14
+2408102,Natal,ok,345.3204635752462,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-04-14
+2507507,João Pessoa,ok,211.5561495663346,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-04-14
+2611606,Recife,ok,219.86977291950092,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-04-14
+2704302,Maceió,ok,575.0948295187527,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-04-14
+2800308,Aracaju,ok,680.8558605746678,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-04-14
+2927408,Salvador,ok,290.3852312503154,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-04-14
+2111300,São Luís,ok,726.2650020376798,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-05-26
+2211001,Teresina,ok,573.087353150145,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-05-26
+2304400,Fortaleza,ok,194.75093502890485,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-05-26
+2408102,Natal,ok,345.09515049183506,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-05-26
+2507507,João Pessoa,ok,210.38285120076563,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-05-26
+2611606,Recife,ok,217.59620299659085,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-05-26
+2704302,Maceió,ok,576.7089758546563,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-05-26
+2800308,Aracaju,ok,685.287338008261,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-05-26
+2927408,Salvador,ok,289.0651799181241,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-05-26
+2111300,São Luís,ok,729.3565545099423,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-07-07
+2211001,Teresina,ok,574.7843988416967,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-07-07
+2304400,Fortaleza,ok,194.75135536257577,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-07-07
+2408102,Natal,ok,345.66011890688765,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-07-07
+2507507,João Pessoa,ok,208.31671473749043,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-07-07
+2611606,Recife,ok,217.13855150677438,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-07-07
+2704302,Maceió,ok,578.1602100652394,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-07-07
+2800308,Aracaju,ok,689.4976926941322,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-07-07
+2927408,Salvador,ok,287.0048925235199,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-07-07
+2111300,São Luís,ok,732.348168339204,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-08-18
+2211001,Teresina,ok,579.4154369906406,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-08-18
+2304400,Fortaleza,ok,201.755524720359,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-08-18
+2408102,Natal,ok,344.323672772576,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-08-18
+2507507,João Pessoa,ok,205.50539483528036,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-08-18
+2611606,Recife,ok,216.7513998764639,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-08-18
+2704302,Maceió,ok,579.7738352468723,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-08-18
+2800308,Aracaju,ok,692.101732629736,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-08-18
+2927408,Salvador,ok,285.3820494552097,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-08-18
+2111300,São Luís,ok,735.7065563959918,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-09-29
+2211001,Teresina,ok,582.5631631466963,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-09-29
+2304400,Fortaleza,ok,201.72175080935045,False,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",Maximum Likelihood optimization failed to converge. Check mle_retvals,2024-09-29
+2408102,Natal,ok,343.35646397084315,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-09-29
+2507507,João Pessoa,ok,202.6289886660623,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-09-29
+2611606,Recife,ok,217.08211469623316,False,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",Maximum Likelihood optimization failed to converge. Check mle_retvals,2024-09-29
+2704302,Maceió,ok,581.5713072390147,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-09-29
+2800308,Aracaju,ok,700.5594017083242,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-09-29
+2927408,Salvador,ok,284.55545669753815,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-09-29
+2111300,São Luís,ok,740.3935066742778,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-11-10
+2211001,Teresina,ok,585.2312205819778,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-11-10
+2304400,Fortaleza,ok,203.1522218932966,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-11-10
+2408102,Natal,ok,344.75673797017055,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-11-10
+2507507,João Pessoa,ok,200.34174105112714,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-11-10
+2611606,Recife,ok,216.9694865037104,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-11-10
+2704302,Maceió,ok,583.1736153592369,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-11-10
+2800308,Aracaju,ok,703.1076526143261,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-11-10
+2927408,Salvador,ok,283.6013010324325,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-11-10
+2111300,São Luís,ok,749.2000217839753,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-12-22
+2211001,Teresina,ok,592.6996454378702,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-12-22
+2304400,Fortaleza,ok,241.5090028329698,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-12-22
+2408102,Natal,ok,344.25350703714287,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-12-22
+2507507,João Pessoa,ok,197.20320384458773,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-12-22
+2611606,Recife,ok,219.82957611878246,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-12-22
+2704302,Maceió,ok,586.7516693857921,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-12-22
+2800308,Aracaju,ok,708.849702175157,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-12-22
+2927408,Salvador,ok,281.7229744095192,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2024-12-22
+2111300,São Luís,ok,754.826728845646,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-02-02
+2211001,Teresina,ok,604.5883055592333,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-02-02
+2304400,Fortaleza,ok,249.60065502072982,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-02-02
+2408102,Natal,ok,345.7533028520675,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-02-02
+2507507,João Pessoa,ok,194.5643906713311,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-02-02
+2611606,Recife,ok,219.16711915061205,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-02-02
+2704302,Maceió,ok,599.2796868761508,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-02-02
+2800308,Aracaju,ok,713.3602247247527,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-02-02
+2927408,Salvador,ok,280.2857967647924,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-02-02
+2111300,São Luís,ok,758.9757985223036,False,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",Maximum Likelihood optimization failed to converge. Check mle_retvals,2025-03-16
+2211001,Teresina,ok,605.7737592875875,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-03-16
+2304400,Fortaleza,ok,250.76433566521558,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-03-16
+2408102,Natal,ok,346.9926602071012,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-03-16
+2507507,João Pessoa,ok,191.3501282769803,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-03-16
+2611606,Recife,ok,218.08489210295423,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-03-16
+2704302,Maceió,ok,601.9569217967233,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-03-16
+2800308,Aracaju,ok,724.6487252244993,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-03-16
+2927408,Salvador,ok,279.58985774081066,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-03-16
+2111300,São Luís,ok,764.0262783224374,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-04-27
+2211001,Teresina,ok,606.7099478555572,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-04-27
+2304400,Fortaleza,ok,256.4669254393872,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-04-27
+2408102,Natal,ok,346.26154968848545,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-04-27
+2507507,João Pessoa,ok,190.6711468532711,False,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",Maximum Likelihood optimization failed to converge. Check mle_retvals,2025-04-27
+2611606,Recife,ok,214.71662443053782,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-04-27
+2704302,Maceió,ok,604.1194245884163,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-04-27
+2800308,Aracaju,ok,729.1243829859609,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-04-27
+2927408,Salvador,ok,278.87460473501926,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-04-27
+2111300,São Luís,ok,770.6563278382031,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-06-15
+2211001,Teresina,ok,608.3095678968843,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-06-15
+2304400,Fortaleza,ok,264.0240704772834,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-06-15
+2408102,Natal,ok,344.2930753210643,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-06-15
+2507507,João Pessoa,ok,187.64082183244847,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-06-15
+2611606,Recife,ok,212.11525407300456,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-06-15
+2704302,Maceió,ok,605.5927262796243,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-06-15
+2800308,Aracaju,ok,735.5755194479921,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-06-15
+2927408,Salvador,ok,278.0442843838377,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-06-15
+2111300,São Luís,ok,774.6867355841352,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-07-27
+2211001,Teresina,ok,609.8350444435646,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-07-27
+2304400,Fortaleza,ok,270.57771642084185,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-07-27
+2408102,Natal,ok,347.44214208137555,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-07-27
+2507507,João Pessoa,ok,185.28874791361673,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-07-27
+2611606,Recife,ok,211.36724730447372,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-07-27
+2704302,Maceió,ok,608.3690988083338,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-07-27
+2800308,Aracaju,ok,749.1936418634474,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-07-27
+2927408,Salvador,ok,276.5046876069954,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-07-27
+2111300,São Luís,ok,778.9540927481269,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-09-07
+2211001,Teresina,ok,611.774494726385,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-09-07
+2304400,Fortaleza,ok,293.9958818436997,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-09-07
+2408102,Natal,ok,349.77179731378976,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-09-07
+2507507,João Pessoa,ok,185.37705111893052,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-09-07
+2611606,Recife,ok,207.85493019578576,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-09-07
+2704302,Maceió,ok,610.503559101913,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-09-07
+2800308,Aracaju,ok,754.9833489615962,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-09-07
+2927408,Salvador,ok,274.8372256038869,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-09-07
+2111300,São Luís,ok,783.5145218326109,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-10-19
+2211001,Teresina,ok,614.9886420787141,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-10-19
+2304400,Fortaleza,ok,299.00288419060223,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-10-19
+2408102,Natal,ok,348.1551324489375,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-10-19
+2507507,João Pessoa,ok,185.40096585720565,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-10-19
+2611606,Recife,ok,204.29690122271188,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-10-19
+2704302,Maceió,ok,611.3729773944972,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-10-19
+2800308,Aracaju,ok,763.6030124020461,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-10-19
+2927408,Salvador,ok,275.23358612877564,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-10-19
+2111300,São Luís,ok,790.2041117198241,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-11-30
+2211001,Teresina,ok,616.5484867240918,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-11-30
+2304400,Fortaleza,ok,299.50629165100435,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-11-30
+2408102,Natal,ok,345.8862651664389,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-11-30
+2507507,João Pessoa,ok,182.63108912496753,False,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",Maximum Likelihood optimization failed to converge. Check mle_retvals,2025-11-30
+2611606,Recife,ok,201.21053878190983,False,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",Maximum Likelihood optimization failed to converge. Check mle_retvals,2025-11-30
+2704302,Maceió,ok,613.5445588545103,False,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",Maximum Likelihood optimization failed to converge. Check mle_retvals,2025-11-30
+2800308,Aracaju,ok,768.5247680322228,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-11-30
+2927408,Salvador,ok,272.70097684789243,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2025-11-30
+2111300,São Luís,ok,795.4518736378964,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-01-11
+2211001,Teresina,ok,618.593912594079,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-01-11
+2304400,Fortaleza,ok,348.23205103890024,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-01-11
+2408102,Natal,ok,348.39994384978024,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-01-11
+2507507,João Pessoa,ok,180.8556923588804,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-01-11
+2611606,Recife,ok,212.67500695593338,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-01-11
+2704302,Maceió,ok,616.1356990995758,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-01-11
+2800308,Aracaju,ok,770.7851586527293,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-01-11
+2927408,Salvador,ok,281.85449796777857,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-01-11
+2111300,São Luís,ok,798.1152313780153,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-02-22
+2211001,Teresina,ok,619.5767556613393,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-02-22
+2304400,Fortaleza,ok,351.7107448709355,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-02-22
+2408102,Natal,ok,350.33197792788627,False,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",Maximum Likelihood optimization failed to converge. Check mle_retvals,2026-02-22
+2507507,João Pessoa,ok,179.9964146110144,False,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",Maximum Likelihood optimization failed to converge. Check mle_retvals,2026-02-22
+2611606,Recife,ok,213.43134879684663,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-02-22
+2704302,Maceió,ok,619.6286065776534,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-02-22
+2800308,Aracaju,ok,781.5552195527318,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-02-22
+2927408,Salvador,ok,283.0074285931274,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-02-22
+2111300,São Luís,ok,801.945496814833,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-04-05
+2211001,Teresina,ok,620.081874036755,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-04-05
+2304400,Fortaleza,ok,361.88024150676273,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-04-05
+2408102,Natal,ok,352.8269890075934,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-04-05
+2507507,João Pessoa,ok,180.70815183702373,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-04-05
+2611606,Recife,ok,218.50055338256493,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-04-05
+2704302,Maceió,ok,620.9538913653103,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-04-05
+2800308,Aracaju,ok,823.0843691190953,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-04-05
+2927408,Salvador,ok,280.6339017188115,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-04-05
+2111300,São Luís,ok,806.8173245293781,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-05-17
+2211001,Teresina,ok,624.141715600112,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-05-17
+2304400,Fortaleza,ok,369.3330041952266,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-05-17
+2408102,Natal,ok,351.86651158028235,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-05-17
+2507507,João Pessoa,ok,178.19915298576785,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-05-17
+2611606,Recife,ok,215.57989624137508,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-05-17
+2704302,Maceió,ok,627.9478875230745,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-05-17
+2800308,Aracaju,ok,826.4010415343132,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-05-17
+2927408,Salvador,ok,282.0573403738447,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-05-17
+2111300,São Luís,ok,812.3320370157251,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-06-28
+2211001,Teresina,ok,627.3599284052314,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-06-28
+2304400,Fortaleza,ok,368.9964341103704,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-06-28
+2408102,Natal,ok,352.61137777506826,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-06-28
+2507507,João Pessoa,ok,175.4692778768818,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-06-28
+2611606,Recife,ok,215.93332281154113,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-06-28
+2704302,Maceió,ok,632.4366577489393,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-06-28
+2800308,Aracaju,ok,831.626732745613,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-06-28
+2927408,Salvador,ok,280.24329481384603,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-06-28
+2111300,São Luís,ok,815.4032286686158,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-08-09
+2211001,Teresina,ok,628.1689439601305,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-08-09
+2304400,Fortaleza,ok,368.06881303733456,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-08-09
+2408102,Natal,ok,351.88407907998254,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-08-09
+2507507,João Pessoa,ok,176.58790087683286,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-08-09
+2611606,Recife,ok,211.9981571857889,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-08-09
+2704302,Maceió,ok,633.8288890354318,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-08-09
+2800308,Aracaju,ok,835.7093807381385,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-08-09
+2927408,Salvador,ok,277.8495324059421,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-08-09
+2111300,São Luís,ok,818.0544231724314,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-09-27
+2211001,Teresina,ok,630.2804765018966,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-09-27
+2304400,Fortaleza,ok,367.9704812509703,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-09-27
+2408102,Natal,ok,350.0161959364087,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-09-27
+2507507,João Pessoa,ok,173.48737351691645,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-09-27
+2611606,Recife,ok,208.24011189597616,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-09-27
+2704302,Maceió,ok,638.5089884797062,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-09-27
+2800308,Aracaju,ok,841.4775916453852,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-09-27
+2927408,Salvador,ok,277.82841373604793,True,"SARIMAX ARMA(1,1) com 2 harmônicos Fourier anuais como regressoras",,2026-09-27

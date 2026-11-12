@@ -1,0 +1,4 @@
+﻿variavel,fonte,periodo,documentacao,observacoes
+casos prováveis e MEM,InfoDengue alertcity,2015–SE43 2026,https://info.dengue.mat.br/services/api,"Consulta pública por geocódigo; último retorno foi SE43, iniciada em 25/10/2026"
+"temperatura, chuva e umidade",NASA POWER Daily Point API,2015-01-01 a 2026-11-09,https://power.larc.nasa.gov/docs/services/api/temporal/daily/,"Grade NASA POWER; T2M, PRECTOTCORR, RH2M agregados para semana iniciada no domingo"
+população,DATASUS/SVS via pacote de dados Mosqlimate,2001–2025; último ano conhecido,https://sprint.mosqlimate.org/data/,Última estimativa conhecida por semana; sem dados populacionais futuros
